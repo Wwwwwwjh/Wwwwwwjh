@@ -3,11 +3,20 @@
 ### CS undergrad (DUT)
 
 
-- 🌱 I'm currently learning **VLA & Robot Manipulation
-Robustness & Self-Supervised Learning
-Computer Vision & Natural Language Process**
+- 🔭 Currently working on: **VLA & Robot Manipulation**  
+- 🧠 Research interests:
+  - VLA / Embodied AI
+  - Robustness & OOD generalization
+  - Self-supervised representation learning
+  - Parameter-efficient tuning (VPT / LoRA)
+- 📫 Reach me: 1035304652@mail.dlut.edu.cn
 
-- 📫 How to reach me **1035304652@mail.dlut.edu.cn**
+## Featured Projects
+- **[Project Name](link)** — one-line description (task + your contribution + highlight).
+- **[Project Name](link)** — one-line description.
+
+## Publications
+- Manuscript (under review): *Title* — (code / project page)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
