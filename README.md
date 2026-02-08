@@ -2,13 +2,12 @@
 
 ### CS undergrad (DUT)
 
-
 - 🔭 Currently working on: **VLA & Robot Manipulation**  
 - 🧠 Research interests:
   - VLA / Embodied AI
   - Robustness & OOD generalization
   - Self-supervised representation learning
-  - Parameter-efficient tuning (VPT / LoRA)
+  - Parameter-efficient tuning
 - 📫 Reach me: 1035304652@mail.dlut.edu.cn
 
 ## Featured Projects
