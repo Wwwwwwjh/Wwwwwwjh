@@ -2,7 +2,6 @@
 
 ### CS undergrad (DUT)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wwwwwwjh&label=Profile views&color=0e75b6&style=flat" alt="Wwwwwwjh" /> </p>
 
 - 🌱 I'm currently learning **VLA & Robot Manipulation
 Robustness & Self-Supervised Learning
